@@ -1,8 +1,13 @@
-h1 {
-  color: red;
+body {
+  background-image: url("fantasy-2069978_1280.png");
 }
 
-.purple {
+h1 {
+  color: red;
+  background-image: url("fantasy-2069978_1280.png");
+}
+
+.Intro {
   color: purple;font-size: 1em;
 }
 
